@@ -1,7 +1,7 @@
 # HD-AI_CHALLENGE_FINAL
 
 ## 🏆 Result
-- **Leader Board Score(1st)
+- ** Leader Board Score(1st)
 
 <br>
 
