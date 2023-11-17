@@ -8,7 +8,7 @@
 <br>
 
 본선진출시
-<img width="100%" src="https://github.com/jjuhyeok/HD-AI_CHALLENGE/assets/49608953/79e812c3-1fab-44a1-be18-e5ac64883372"/>  
+<img width="100%" src="https://github.com/jjuhyeok/HD-AI_CHALLENGE_FINAL/assets/49608953/a1e39165-c040-490e-88d5-e8be7042a4ce"/>  
 <br>
 
 <br>
