@@ -64,28 +64,5 @@
 
 ---
 
-## Process
-
-**1. EDA**   
-  * 나라별, 항구별, 배의 타입별 등등의 특성 확인  
-  * 각 배의 카테고리컬한 피처들의 조합의 통계값들 확인  
-  * 기상정보에 대한 Target값 로직 파악  
-  
-**2. Feature Engineering**   
-  * 시간 feature들은 inherently cyclical 하다는 특징을 활용하기 위해 sin/cos 변환  
-  * 특정 피처들의 target 값의 평균으로 파생 변수 생성  
-  * 클러스터링  
-
-
-**3. Modeling**
-
-  * Optuna를 활용하여 하이퍼파라미터 튜닝  
-
-**3. Validation**
-  * 일반적인 K-fold  
-  * Year 따른 Stratify K-fold  
-  * ARI_CO(나라별)에 따른 Stratify K-fold  
-  * ARI_PO(항구별)에 따른 Stratify K-fold (public과 제일 Score 유사 but ARI_PO 샘플이 적은 항구들이 존재)  
-
 
   
